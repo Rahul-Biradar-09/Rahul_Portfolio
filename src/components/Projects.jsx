@@ -4,21 +4,21 @@ const projects = [
   {
     title: "Todo Application",
     description: `A responsive task manager with full CRUD operations using HTML, CSS, JavaScript, and Bootstrap. Data persists with Local Storage, allowing dynamic updates without page reload.`,
-    image: "https://images.pexels.com/photos/3184465/pexels-photo-3184465.jpeg",
+    image: "https://t4.ftcdn.net/jpg/02/42/79/15/360_F_242791586_qkCFcop5qIbmhAZYX7lpAUEWU03GfIFL.jpg",
     link: "https://rahultodosjs1.ccbp.tech",
     tech: ["HTML", "CSS", "JavaScript", "Bootstrap", "Local Storage API"],
   },
   {
     title: "Jobby Application",
     description: `A React-based job portal with Node.js and Express.js backend. Includes JWT authentication, search, filters, and persistent login. Built with reusable components and RESTful APIs.`,
-    image: "https://images.pexels.com/photos/1181671/pexels-photo-1181671.jpeg",
+    image: "https://media.istockphoto.com/id/1394701218/photo/job-search-concept-find-your-career-woman-looking-at-online-website-by-laptop-computer-people.jpg?s=612x612&w=0&k=20&c=V32cT3dAoI7plQSnV-i7YxP43YvaoyA0jLS4729gNWM=",
     link: "https://rahul010.ccbp.tech",
     tech: ["React", "Node.js", "Express.js", "JWT", "REST API", "Flexbox"],
   },
   {
     title: "Nxt Trendz (E-commerce Clone)",
     description: `A full-stack e-commerce app inspired by Amazon/Flipkart. Features include JWT-based login, React Context for state management, and dynamic product display with filtering and search.`,
-    image: "https://images.pexels.com/photos/3184466/pexels-photo-3184466.jpeg",
+    image: "https://blog.shift4shop.com/hubfs/iStock-1051616786.jpg",
     link: "https://rahul003.ccbp.tech",
     tech: [
       "React.js",

@@ -17,6 +17,7 @@ import {
   SiPostman,
   SiTailwindcss
 } from 'react-icons/si';
+import { AiOutlineConsoleSql } from 'react-icons/ai';
 
 const skills = [
   { name: 'HTML', icon: <FaHtml5 size={40} /> },
@@ -28,6 +29,7 @@ const skills = [
   { name: 'Bootstrap', icon: <SiBootstrap size={40} /> },
   { name: 'Python', icon: <FaPython size={40} /> },
   { name: 'SQLite', icon: <SiSqlite size={40} /> },
+  { name: 'SQL', icon: <AiOutlineConsoleSql size={40} /> },
   { name: 'Git', icon: <FaGitAlt size={40} /> },
   { name: 'JWT Auth', icon: <FaLock size={40} /> },
   { name: 'React Context', icon: <SiRedux size={40} /> },
